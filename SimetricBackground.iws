@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20bf4e60-6da8-44f9-8332-93b1e1202f74" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SimetricBackground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimetricBackground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimetricBackground.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/SimetricBackground.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SimetricBackground.iws" beforeDir="false" afterPath="$PROJECT_DIR$/SimetricBackground.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/SimetricBackground.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1YfFvoDhbKe9jo9fcUZjvPItwH7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547128904001" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SimetricBackground" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="simetric.card.CardApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@338a4f80" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20bf4e60-6da8-44f9-8332-93b1e1202f74" name="Default Changelist" comment="" />
+      <created>1546539739604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546539739604</updated>
+      <workItem from="1546539749742" duration="2671000" />
+      <workItem from="1546543897860" duration="4149000" />
+      <workItem from="1546584700842" duration="15731000" />
+      <workItem from="1546612029760" duration="1447000" />
+      <workItem from="1546848202462" duration="9907000" />
+      <workItem from="1546952682965" duration="1754000" />
+      <workItem from="1547015997709" duration="5754000" />
+      <workItem from="1547061047833" duration="1620000" />
+      <workItem from="1547103579823" duration="1461000" />
+      <workItem from="1547105212141" duration="12398000" />
+      <workItem from="1547578182381" duration="569000" />
+      <workItem from="1547800876399" duration="484000" />
+      <workItem from="1548052692644" duration="1537000" />
+      <workItem from="1548080912255" duration="518000" />
+      <workItem from="1548092924633" duration="2254000" />
+      <workItem from="1548179593882" duration="303000" />
+      <workItem from="1583325977108" duration="602000" />
+      <workItem from="1583395332410" duration="1404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583397542930">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397542930" />
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.0.center" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.0.center/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.0.left" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.0.left/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.0.right" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.0.right/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.1.bottom" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.1.center" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.1.center/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.1.left" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.1.left/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.1.right" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.1.right/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.2.bottom" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.2.center" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.2.center/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.2.left" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.2.left/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="1877" height="327" key="GridCell.Tab.2.right" timestamp="1583397906772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="327" key="GridCell.Tab.2.right/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397906772" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1583397844183">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397844183" />
+    <state x="810" y="223" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1583397758649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="223" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1920.1040/1920.269.1280.760@0.0.1920.1040" timestamp="1583397758649" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|SimetricBackground</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
